@@ -1,6 +1,10 @@
-#include <stdio.h>
+#include <stdio.h> //not studio.h
+
 
 int cubeByRefernce(int* n);git
+
+
+int cubeByValue(int n);
 
 int main(){
 
